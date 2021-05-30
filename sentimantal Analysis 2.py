@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 10 00:15:03 2018
-
-@author: vikash
-"""
-
 import sys
 import csv
 import tweepy
